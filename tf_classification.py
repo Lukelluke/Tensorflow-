@@ -1,3 +1,5 @@
+#测试 git 的status & diff功能
+
 from __future__ import print_function
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
